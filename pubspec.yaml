@@ -1,0 +1,6 @@
+name: "RESTAPI"
+publish_to: ""
+
+dependencies:
+  angel_framework: ^2.1.1
+  angel_hot:
